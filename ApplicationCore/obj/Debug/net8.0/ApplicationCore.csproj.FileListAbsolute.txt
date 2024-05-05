@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
+C:\Users\Usuario\source\repos\BazarJoyeriaElRoble\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
